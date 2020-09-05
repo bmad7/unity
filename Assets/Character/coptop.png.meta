@@ -1,0 +1,6434 @@
+fileFormatVersion: 2
+guid: 5229b72d759ca1e41aab2a83a7b9cbdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4502430228424782322
+    second: coptop_0
+  - first:
+      213: -6649383836160957461
+    second: coptop_1
+  - first:
+      213: -4672395306375220906
+    second: coptop_2
+  - first:
+      213: 4357267645200845447
+    second: coptop_3
+  - first:
+      213: -8886782077115528770
+    second: coptop_4
+  - first:
+      213: 8605134372882778236
+    second: coptop_5
+  - first:
+      213: -5073123074540741382
+    second: coptop_6
+  - first:
+      213: 3747973093718475413
+    second: coptop_7
+  - first:
+      213: 6255699565401508840
+    second: coptop_8
+  - first:
+      213: -6831068619421638183
+    second: coptop_9
+  - first:
+      213: 7446680124972255671
+    second: coptop_10
+  - first:
+      213: 3228440499688870818
+    second: coptop_11
+  - first:
+      213: -4365058369370968764
+    second: coptop_12
+  - first:
+      213: 1011149251307048246
+    second: coptop_13
+  - first:
+      213: 2280210716873023284
+    second: coptop_14
+  - first:
+      213: -3182442995941313801
+    second: coptop_15
+  - first:
+      213: -2274952426720992697
+    second: coptop_16
+  - first:
+      213: 3010566452891527515
+    second: coptop_17
+  - first:
+      213: 8863115637791078961
+    second: coptop_18
+  - first:
+      213: -3155934839491170813
+    second: coptop_19
+  - first:
+      213: 748674935147808960
+    second: coptop_20
+  - first:
+      213: -202773455159400347
+    second: coptop_21
+  - first:
+      213: 8566588205639781424
+    second: coptop_22
+  - first:
+      213: 4401376920677154912
+    second: coptop_23
+  - first:
+      213: 3120997250392220770
+    second: coptop_24
+  - first:
+      213: 5415937013950022597
+    second: coptop_25
+  - first:
+      213: 2761345927293561065
+    second: coptop_26
+  - first:
+      213: -5124946530495144977
+    second: coptop_27
+  - first:
+      213: -811601198443195179
+    second: coptop_28
+  - first:
+      213: 329815975136521850
+    second: coptop_29
+  - first:
+      213: 7852955645834770611
+    second: coptop_30
+  - first:
+      213: 6426220390483563537
+    second: coptop_31
+  - first:
+      213: 3655498863031800663
+    second: coptop_32
+  - first:
+      213: 5072670359023681739
+    second: coptop_33
+  - first:
+      213: -5780300762000970792
+    second: coptop_34
+  - first:
+      213: -6149186327061841810
+    second: coptop_35
+  - first:
+      213: 3587222746567745908
+    second: coptop_36
+  - first:
+      213: -599083013803095049
+    second: coptop_37
+  - first:
+      213: 7288464045766851761
+    second: coptop_38
+  - first:
+      213: 2291869299588243257
+    second: coptop_39
+  - first:
+      213: 1730838617392707520
+    second: coptop_40
+  - first:
+      213: 2811281076813207844
+    second: coptop_41
+  - first:
+      213: 7886905144669837640
+    second: coptop_42
+  - first:
+      213: 5887833731845137187
+    second: coptop_43
+  - first:
+      213: 3390723452222374645
+    second: coptop_44
+  - first:
+      213: 1874472713074035078
+    second: coptop_45
+  - first:
+      213: -7244890768630821820
+    second: coptop_46
+  - first:
+      213: 4572204737530472918
+    second: coptop_47
+  - first:
+      213: -7364762008826893412
+    second: coptop_48
+  - first:
+      213: 6061325607242505209
+    second: coptop_49
+  - first:
+      213: -1515577142269212714
+    second: coptop_50
+  - first:
+      213: -1160060326622839580
+    second: coptop_51
+  - first:
+      213: 2065818388478419604
+    second: coptop_52
+  - first:
+      213: 235502991764716392
+    second: coptop_53
+  - first:
+      213: 2878028446680062174
+    second: coptop_54
+  - first:
+      213: -7901254420700399041
+    second: coptop_55
+  - first:
+      213: -7530053760144638991
+    second: coptop_56
+  - first:
+      213: -6995128524030605669
+    second: coptop_57
+  - first:
+      213: -7934998243228349200
+    second: coptop_58
+  - first:
+      213: 4134366903017876068
+    second: coptop_59
+  - first:
+      213: -5892879467099525429
+    second: coptop_60
+  - first:
+      213: -2631118509294078491
+    second: coptop_61
+  - first:
+      213: 5865090038440882642
+    second: coptop_62
+  - first:
+      213: 8870564455420303801
+    second: coptop_63
+  - first:
+      213: -971110204749106123
+    second: coptop_64
+  - first:
+      213: -6810166828809145537
+    second: coptop_65
+  - first:
+      213: 1194154332258912071
+    second: coptop_66
+  - first:
+      213: -4944139968259207732
+    second: coptop_67
+  - first:
+      213: 566128541609324175
+    second: coptop_68
+  - first:
+      213: -5321821642401582179
+    second: coptop_69
+  - first:
+      213: -5584774577025696344
+    second: coptop_70
+  - first:
+      213: 7235897074778885567
+    second: coptop_71
+  - first:
+      213: -7300221120268565315
+    second: coptop_72
+  - first:
+      213: 4899129506155244674
+    second: coptop_73
+  - first:
+      213: 8422325364660108460
+    second: coptop_74
+  - first:
+      213: 4575896880864925633
+    second: coptop_75
+  - first:
+      213: 8781215063580303424
+    second: coptop_76
+  - first:
+      213: -6322816008494434055
+    second: coptop_77
+  - first:
+      213: -222483488229077671
+    second: coptop_78
+  - first:
+      213: -1035825436351674728
+    second: coptop_79
+  - first:
+      213: 8680708924217928844
+    second: coptop_80
+  - first:
+      213: -5691406881123655294
+    second: coptop_81
+  - first:
+      213: -5228809532929879024
+    second: coptop_82
+  - first:
+      213: 4863113859810828692
+    second: coptop_83
+  - first:
+      213: 4792388662317452281
+    second: coptop_84
+  - first:
+      213: -5763931456775616301
+    second: coptop_85
+  - first:
+      213: 547875969243511215
+    second: coptop_86
+  - first:
+      213: 7577095762853938391
+    second: coptop_87
+  - first:
+      213: -4962514884954677167
+    second: coptop_88
+  - first:
+      213: -4255319674759019346
+    second: coptop_89
+  - first:
+      213: 5795592091387899187
+    second: coptop_90
+  - first:
+      213: -443818773083196767
+    second: coptop_91
+  - first:
+      213: 5808497001394269077
+    second: coptop_92
+  - first:
+      213: 3723639653582880409
+    second: coptop_93
+  - first:
+      213: -6347575022320820879
+    second: coptop_94
+  - first:
+      213: 4241758732152751472
+    second: coptop_95
+  - first:
+      213: 8754543464396984823
+    second: coptop_96
+  - first:
+      213: -1039900012927118890
+    second: coptop_97
+  - first:
+      213: 1511888106354281876
+    second: coptop_98
+  - first:
+      213: -3774548400438551440
+    second: coptop_99
+  - first:
+      213: 19170233893154874
+    second: coptop_100
+  - first:
+      213: -3746499031661203808
+    second: coptop_101
+  - first:
+      213: 4923041696220506833
+    second: coptop_102
+  - first:
+      213: -8447206233459581074
+    second: coptop_103
+  - first:
+      213: 8855875806485178388
+    second: coptop_104
+  - first:
+      213: 3329796970705651458
+    second: coptop_105
+  - first:
+      213: 3894166993772456141
+    second: coptop_106
+  - first:
+      213: -5539648426271719893
+    second: coptop_107
+  - first:
+      213: 395635642464947677
+    second: coptop_108
+  - first:
+      213: -3342186198534424029
+    second: coptop_109
+  - first:
+      213: 853320836961463428
+    second: coptop_110
+  - first:
+      213: -4706939113256144617
+    second: coptop_111
+  - first:
+      213: -5801779203834688532
+    second: coptop_112
+  - first:
+      213: 5489496830878902682
+    second: coptop_113
+  - first:
+      213: 556907454988828213
+    second: coptop_114
+  - first:
+      213: -47478806611173993
+    second: coptop_115
+  - first:
+      213: -8125078099679783287
+    second: coptop_116
+  - first:
+      213: 1822872212952585071
+    second: coptop_117
+  - first:
+      213: 1934488351929890495
+    second: coptop_118
+  - first:
+      213: 7947681111483886027
+    second: coptop_119
+  - first:
+      213: -4634113998859963578
+    second: coptop_120
+  - first:
+      213: 1701555642923474743
+    second: coptop_121
+  - first:
+      213: -6724076027416385628
+    second: coptop_122
+  - first:
+      213: 133629566706156083
+    second: coptop_123
+  - first:
+      213: -169547280276578775
+    second: coptop_124
+  - first:
+      213: -2360253268207824082
+    second: coptop_125
+  - first:
+      213: 2159985055875387175
+    second: coptop_126
+  - first:
+      213: 7989970998433067744
+    second: coptop_127
+  - first:
+      213: -8490338665583894154
+    second: coptop_128
+  - first:
+      213: -4213114892832851630
+    second: coptop_129
+  - first:
+      213: 5006383057862744908
+    second: coptop_130
+  - first:
+      213: 1494706757371662660
+    second: coptop_131
+  - first:
+      213: -6825264557936945356
+    second: coptop_132
+  - first:
+      213: -2916112273933033152
+    second: coptop_133
+  - first:
+      213: -7610111873080934657
+    second: coptop_134
+  - first:
+      213: -2899163005208785689
+    second: coptop_135
+  - first:
+      213: -5291206225293775591
+    second: coptop_136
+  - first:
+      213: -8343656323026417611
+    second: coptop_137
+  - first:
+      213: -530333826576137694
+    second: coptop_138
+  - first:
+      213: 2217008406226331305
+    second: coptop_139
+  - first:
+      213: -4791676148376244071
+    second: coptop_140
+  - first:
+      213: -1133755894686179747
+    second: coptop_141
+  - first:
+      213: 9153499618829353477
+    second: coptop_142
+  - first:
+      213: 7213449981526169524
+    second: coptop_143
+  - first:
+      213: -3634072544699854663
+    second: coptop_144
+  - first:
+      213: -4900382577335759679
+    second: coptop_145
+  - first:
+      213: 6981414844544303654
+    second: coptop_146
+  - first:
+      213: -3334479402631496019
+    second: coptop_147
+  - first:
+      213: 7990150036332543558
+    second: coptop_148
+  - first:
+      213: 732835297445479824
+    second: coptop_149
+  - first:
+      213: -2755063120063987186
+    second: coptop_150
+  - first:
+      213: 5202041189761205258
+    second: coptop_151
+  - first:
+      213: 825158876297931728
+    second: coptop_152
+  - first:
+      213: 560869393467407781
+    second: coptop_153
+  - first:
+      213: 5645170755566371818
+    second: coptop_154
+  - first:
+      213: -5306385312075948081
+    second: coptop_155
+  - first:
+      213: -6242542827870619922
+    second: coptop_156
+  - first:
+      213: 1431707757917350571
+    second: coptop_157
+  - first:
+      213: -7223529778964350404
+    second: coptop_158
+  - first:
+      213: -7010108205867900425
+    second: coptop_159
+  - first:
+      213: 8102679988339573860
+    second: coptop_160
+  - first:
+      213: -83005577302938061
+    second: coptop_161
+  - first:
+      213: 8299541675241401474
+    second: coptop_162
+  - first:
+      213: -6912705223226702588
+    second: coptop_163
+  - first:
+      213: 158170387475429688
+    second: coptop_164
+  - first:
+      213: -69611683941706828
+    second: coptop_165
+  - first:
+      213: -3414510007302061934
+    second: coptop_166
+  - first:
+      213: 4542513626612021979
+    second: coptop_167
+  - first:
+      213: -6347026279277872026
+    second: coptop_168
+  - first:
+      213: 545839259238245756
+    second: coptop_169
+  - first:
+      213: 3848352011928658822
+    second: coptop_170
+  - first:
+      213: 4185811069727531683
+    second: coptop_171
+  - first:
+      213: 903755910628139343
+    second: coptop_172
+  - first:
+      213: -1073197448525019315
+    second: coptop_173
+  - first:
+      213: 3500699108918062026
+    second: coptop_174
+  - first:
+      213: -7334893195380349345
+    second: coptop_175
+  - first:
+      213: 1240669468266901486
+    second: coptop_176
+  - first:
+      213: -273115350623034536
+    second: coptop_177
+  - first:
+      213: 1929755371061440267
+    second: coptop_178
+  - first:
+      213: -7736037368188938126
+    second: coptop_179
+  - first:
+      213: -6568095900604359286
+    second: coptop_180
+  - first:
+      213: -7053618403708144066
+    second: coptop_181
+  - first:
+      213: 7047782929461075851
+    second: coptop_182
+  - first:
+      213: 7292068406649827720
+    second: coptop_183
+  - first:
+      213: -1734434441063663554
+    second: coptop_184
+  - first:
+      213: -4522165336652514508
+    second: coptop_185
+  - first:
+      213: -8738386823737109481
+    second: coptop_186
+  - first:
+      213: 8362312807756913935
+    second: coptop_187
+  - first:
+      213: 2629285678349280603
+    second: coptop_188
+  - first:
+      213: 6796593659715607942
+    second: coptop_189
+  - first:
+      213: -7017025300308956474
+    second: coptop_190
+  - first:
+      213: 6712210499590034146
+    second: coptop_191
+  - first:
+      213: 5117239947233677598
+    second: coptop_0
+  - first:
+      213: 2811252985358794114
+    second: coptop_1
+  - first:
+      213: -73030248316354405
+    second: coptop_2
+  - first:
+      213: 8722117563941243718
+    second: coptop_3
+  - first:
+      213: 3582570304045744460
+    second: coptop_4
+  - first:
+      213: -7118780162372581544
+    second: coptop_5
+  - first:
+      213: 2115609847812128193
+    second: coptop_6
+  - first:
+      213: 8928557131473874486
+    second: coptop_7
+  - first:
+      213: 8339812633515839518
+    second: coptop_8
+  - first:
+      213: -7777839355365909405
+    second: coptop_9
+  - first:
+      213: 4136064645382816637
+    second: coptop_10
+  - first:
+      213: -3424586700143421797
+    second: coptop_11
+  - first:
+      213: 5588325281246874488
+    second: coptop_12
+  - first:
+      213: -3091877543104087023
+    second: coptop_13
+  - first:
+      213: 1320021761747522893
+    second: coptop_14
+  - first:
+      213: -1800243536744019066
+    second: coptop_15
+  - first:
+      213: -4733117416147834683
+    second: coptop_16
+  - first:
+      213: 4146181144683802844
+    second: coptop_17
+  - first:
+      213: 6837450810745636794
+    second: coptop_18
+  - first:
+      213: -2640180117341319090
+    second: coptop_19
+  - first:
+      213: 3856720036369577613
+    second: coptop_20
+  - first:
+      213: 422786518901211353
+    second: coptop_21
+  - first:
+      213: 2238905720933483781
+    second: coptop_22
+  - first:
+      213: 5052533026958835307
+    second: coptop_23
+  - first:
+      213: -694835819296941982
+    second: coptop_24
+  - first:
+      213: -8860759584461709502
+    second: coptop_25
+  - first:
+      213: -7702689254040550045
+    second: coptop_26
+  - first:
+      213: -8935164462861765201
+    second: coptop_27
+  - first:
+      213: 3600890401433806293
+    second: coptop_28
+  - first:
+      213: 9024442458853133461
+    second: coptop_29
+  - first:
+      213: 4304299795796702741
+    second: coptop_30
+  - first:
+      213: -9124129219990747097
+    second: coptop_31
+  - first:
+      213: 3480407510246223398
+    second: coptop_32
+  - first:
+      213: -6291608981614986848
+    second: coptop_33
+  - first:
+      213: -4211799756454887601
+    second: coptop_34
+  - first:
+      213: 6875889916694996282
+    second: coptop_35
+  - first:
+      213: 979662095002360435
+    second: coptop_36
+  - first:
+      213: -2905460144266263381
+    second: coptop_37
+  - first:
+      213: -826593136054439712
+    second: coptop_38
+  - first:
+      213: 7313769005254429996
+    second: coptop_39
+  - first:
+      213: -6649636863297071340
+    second: coptop_40
+  - first:
+      213: -993415374071536720
+    second: coptop_41
+  - first:
+      213: -2101650590593293712
+    second: coptop_42
+  - first:
+      213: 5387809111931012925
+    second: coptop_43
+  - first:
+      213: 8417067906297505686
+    second: coptop_44
+  - first:
+      213: -1657816443077056575
+    second: coptop_45
+  - first:
+      213: -3646747647466795499
+    second: coptop_46
+  - first:
+      213: 6454842216891190889
+    second: coptop_47
+  - first:
+      213: 2619624758201530296
+    second: coptop_48
+  - first:
+      213: -5999196537605342789
+    second: coptop_49
+  - first:
+      213: -1256940490109952415
+    second: coptop_50
+  - first:
+      213: 6028475833845531458
+    second: coptop_51
+  - first:
+      213: 54259922233215672
+    second: coptop_52
+  - first:
+      213: -8403862756644913874
+    second: coptop_53
+  - first:
+      213: -7240267100631930028
+    second: coptop_54
+  - first:
+      213: -4151374727962369156
+    second: coptop_55
+  - first:
+      213: 7472215148988698994
+    second: coptop_56
+  - first:
+      213: 6112967720093894441
+    second: coptop_57
+  - first:
+      213: -671881928834445788
+    second: coptop_58
+  - first:
+      213: 2233747778055736045
+    second: coptop_59
+  - first:
+      213: 6598020517105132781
+    second: coptop_60
+  - first:
+      213: -4326922105501848127
+    second: coptop_61
+  - first:
+      213: 2696224095618791188
+    second: coptop_62
+  - first:
+      213: -553051964959029425
+    second: coptop_63
+  - first:
+      213: -2469527295081020264
+    second: coptop_64
+  - first:
+      213: 6558650520136920829
+    second: coptop_65
+  - first:
+      213: -3118487783796763003
+    second: coptop_66
+  - first:
+      213: -1916562432969813813
+    second: coptop_67
+  - first:
+      213: 2658307386784671508
+    second: coptop_68
+  - first:
+      213: -251988847327454915
+    second: coptop_69
+  - first:
+      213: -3165630706264698958
+    second: coptop_70
+  - first:
+      213: 1637861365206700586
+    second: coptop_71
+  - first:
+      213: -6523929120021642535
+    second: coptop_72
+  - first:
+      213: 5514962242628607602
+    second: coptop_73
+  - first:
+      213: -7975613983980065494
+    second: coptop_74
+  - first:
+      213: 7243924810498861779
+    second: coptop_75
+  - first:
+      213: 308293162091458713
+    second: coptop_76
+  - first:
+      213: -5285785469903312516
+    second: coptop_77
+  - first:
+      213: 5973432189392327580
+    second: coptop_78
+  - first:
+      213: -5856418823594891781
+    second: coptop_79
+  - first:
+      213: 5540516642523774094
+    second: coptop_80
+  - first:
+      213: -5831478830200526125
+    second: coptop_81
+  - first:
+      213: 564091258817402863
+    second: coptop_82
+  - first:
+      213: -719500770500822005
+    second: coptop_83
+  - first:
+      213: 348180839231630765
+    second: coptop_84
+  - first:
+      213: -5581059753035487541
+    second: coptop_85
+  - first:
+      213: 7355997229795403460
+    second: coptop_86
+  - first:
+      213: 6911050445631144964
+    second: coptop_87
+  - first:
+      213: -3604268197197496525
+    second: coptop_88
+  - first:
+      213: 6091217526660518009
+    second: coptop_89
+  - first:
+      213: 3815890558442498744
+    second: coptop_90
+  - first:
+      213: 8322317660274528980
+    second: coptop_91
+  - first:
+      213: 7097146323772345470
+    second: coptop_92
+  - first:
+      213: 5827221802550251731
+    second: coptop_93
+  - first:
+      213: 6388382112874371202
+    second: coptop_94
+  - first:
+      213: -7760476554978893283
+    second: coptop_95
+  - first:
+      213: -8883415084294748967
+    second: coptop_96
+  - first:
+      213: 4610425690809812995
+    second: coptop_97
+  - first:
+      213: 8063398769729624288
+    second: coptop_98
+  - first:
+      213: -7468922888738923205
+    second: coptop_99
+  - first:
+      213: -4331659330102168069
+    second: coptop_100
+  - first:
+      213: -5150559220064065580
+    second: coptop_101
+  - first:
+      213: 8957507374597096484
+    second: coptop_102
+  - first:
+      213: 3636096319080696035
+    second: coptop_103
+  - first:
+      213: -7941452949906061850
+    second: coptop_104
+  - first:
+      213: 2774016218979490086
+    second: coptop_105
+  - first:
+      213: 6106667405314384246
+    second: coptop_106
+  - first:
+      213: -3559398123017972509
+    second: coptop_107
+  - first:
+      213: 1939183960370781639
+    second: coptop_108
+  - first:
+      213: 3725426393272270812
+    second: coptop_109
+  - first:
+      213: 1399027981788524436
+    second: coptop_110
+  - first:
+      213: -8662241045818424702
+    second: coptop_111
+  - first:
+      213: 4902295425563239951
+    second: coptop_112
+  - first:
+      213: -1737230278280850851
+    second: coptop_113
+  - first:
+      213: 5050634379123756533
+    second: coptop_114
+  - first:
+      213: 5304386049620749175
+    second: coptop_115
+  - first:
+      213: 1311272778399446120
+    second: coptop_116
+  - first:
+      213: -5008460915129798710
+    second: coptop_117
+  - first:
+      213: 1022836300280558726
+    second: coptop_118
+  - first:
+      213: -541723826594596766
+    second: coptop_119
+  - first:
+      213: -189266163459769028
+    second: coptop_120
+  - first:
+      213: -3102062211684058564
+    second: coptop_121
+  - first:
+      213: -3149235667972084291
+    second: coptop_122
+  - first:
+      213: -2385279254870923114
+    second: coptop_123
+  - first:
+      213: 8556716794997844275
+    second: coptop_124
+  - first:
+      213: -6336355413538015431
+    second: coptop_125
+  - first:
+      213: 1546818722946270275
+    second: coptop_126
+  - first:
+      213: -3572517288493651313
+    second: coptop_127
+  - first:
+      213: 3314772345668341928
+    second: coptop_128
+  - first:
+      213: -9049324441721041182
+    second: coptop_129
+  - first:
+      213: -2354047492412272915
+    second: coptop_130
+  - first:
+      213: -154939143146910317
+    second: coptop_131
+  - first:
+      213: 143630586910740107
+    second: coptop_132
+  - first:
+      213: 7251083717875780681
+    second: coptop_133
+  - first:
+      213: -4600967249131162914
+    second: coptop_134
+  - first:
+      213: 7166559755927157749
+    second: coptop_135
+  - first:
+      213: 9053828185648127122
+    second: coptop_136
+  - first:
+      213: -8366756075634757612
+    second: coptop_137
+  - first:
+      213: 9087640366579847712
+    second: coptop_138
+  - first:
+      213: -154761621423637142
+    second: coptop_139
+  - first:
+      213: -8703351968567636511
+    second: coptop_140
+  - first:
+      213: 5349033447391274794
+    second: coptop_141
+  - first:
+      213: -8211675227728008317
+    second: coptop_142
+  - first:
+      213: 2682026062919642478
+    second: coptop_143
+  - first:
+      213: 4762245063737980158
+    second: coptop_144
+  - first:
+      213: 8864388511321367428
+    second: coptop_145
+  - first:
+      213: -3059540779581950198
+    second: coptop_146
+  - first:
+      213: -2387853203096508291
+    second: coptop_147
+  - first:
+      213: 2096077597189877568
+    second: coptop_148
+  - first:
+      213: 5489893460059831831
+    second: coptop_149
+  - first:
+      213: 8955824656215777741
+    second: coptop_150
+  - first:
+      213: 8154869722929643713
+    second: coptop_151
+  - first:
+      213: -541027305731166454
+    second: coptop_152
+  - first:
+      213: 8598828275348375504
+    second: coptop_153
+  - first:
+      213: -7257471197524936453
+    second: coptop_154
+  - first:
+      213: -583248534142871509
+    second: coptop_155
+  - first:
+      213: -2825074194391979845
+    second: coptop_156
+  - first:
+      213: 3432850086991248647
+    second: coptop_157
+  - first:
+      213: -1307699260410832477
+    second: coptop_158
+  - first:
+      213: -3358629365813393685
+    second: coptop_159
+  - first:
+      213: -3465831265946553568
+    second: coptop_160
+  - first:
+      213: 4260286385467951331
+    second: coptop_161
+  - first:
+      213: 456252568233000901
+    second: coptop_162
+  - first:
+      213: -1258536065258740332
+    second: coptop_163
+  - first:
+      213: -7514159276481403426
+    second: coptop_164
+  - first:
+      213: 6924597691364971160
+    second: coptop_165
+  - first:
+      213: -7977986274022266460
+    second: coptop_166
+  - first:
+      213: -2164112290083637471
+    second: coptop_167
+  - first:
+      213: -7422724396366141333
+    second: coptop_168
+  - first:
+      213: -130236056147585235
+    second: coptop_169
+  - first:
+      213: -1405039125201123623
+    second: coptop_170
+  - first:
+      213: 1163263996933135734
+    second: coptop_171
+  - first:
+      213: -2990907450177791135
+    second: coptop_172
+  - first:
+      213: -9082674967519519754
+    second: coptop_173
+  - first:
+      213: -4861615277360831412
+    second: coptop_174
+  - first:
+      213: 2917091494329198581
+    second: coptop_175
+  - first:
+      213: 6897171798881257217
+    second: coptop_176
+  - first:
+      213: -2656532376546190660
+    second: coptop_177
+  - first:
+      213: 6120571909322686021
+    second: coptop_178
+  - first:
+      213: 5410722049828428991
+    second: coptop_179
+  - first:
+      213: -5439712945670574038
+    second: coptop_180
+  - first:
+      213: 5050594062818761961
+    second: coptop_181
+  - first:
+      213: 7167487277146477920
+    second: coptop_182
+  - first:
+      213: 1592104567501882576
+    second: coptop_183
+  - first:
+      213: -152187656118759477
+    second: coptop_184
+  - first:
+      213: 2859599980355406184
+    second: coptop_185
+  - first:
+      213: 5512917189940799596
+    second: coptop_186
+  - first:
+      213: 5369192242141539675
+    second: coptop_187
+  - first:
+      213: -7581569623596941946
+    second: coptop_188
+  - first:
+      213: 6245706306821058928
+    second: coptop_189
+  - first:
+      213: 4064963469139032543
+    second: coptop_190
+  - first:
+      213: -5681039836180446040
+    second: coptop_191
+  - first:
+      213: 2036717676366361999
+    second: coptop_192
+  - first:
+      213: 5786091905074238437
+    second: coptop_193
+  - first:
+      213: -382630665247841261
+    second: coptop_194
+  - first:
+      213: 5188660085252477514
+    second: coptop_195
+  - first:
+      213: -6592544422526551593
+    second: coptop_196
+  - first:
+      213: 8574013727686232375
+    second: coptop_197
+  - first:
+      213: -6790609214636912265
+    second: coptop_198
+  - first:
+      213: -4190210512283921028
+    second: coptop_199
+  - first:
+      213: 4740538806956025243
+    second: coptop_200
+  - first:
+      213: 6227603973317734074
+    second: coptop_201
+  - first:
+      213: -7185939040448412991
+    second: coptop_202
+  - first:
+      213: 1334980705885606065
+    second: coptop_203
+  - first:
+      213: 2560478039557057496
+    second: coptop_204
+  - first:
+      213: -5032575090120409475
+    second: coptop_205
+  - first:
+      213: -3446628882505482529
+    second: coptop_206
+  - first:
+      213: 8771987214027046659
+    second: coptop_207
+  - first:
+      213: -7086054528764230687
+    second: coptop_208
+  - first:
+      213: 914565175304983571
+    second: coptop_209
+  - first:
+      213: -5115099133464246719
+    second: coptop_210
+  - first:
+      213: 2447877515446418518
+    second: coptop_211
+  - first:
+      213: -332077583253207042
+    second: coptop_212
+  - first:
+      213: 2532558000372335473
+    second: coptop_213
+  - first:
+      213: 3260731639463918395
+    second: coptop_214
+  - first:
+      213: -6493359640948071867
+    second: coptop_215
+  - first:
+      213: 7396285283561383879
+    second: coptop_216
+  - first:
+      213: 6440402580841443442
+    second: coptop_217
+  - first:
+      213: 903977570835453639
+    second: coptop_218
+  - first:
+      213: 8473891216758498417
+    second: coptop_219
+  - first:
+      213: -3798277671616016349
+    second: coptop_220
+  - first:
+      213: -4762217947305160516
+    second: coptop_221
+  - first:
+      213: -559989546668123085
+    second: coptop_222
+  - first:
+      213: 8202725856715867629
+    second: coptop_223
+  - first:
+      213: -5683306237441970635
+    second: coptop_224
+  - first:
+      213: -3807472785557365124
+    second: coptop_225
+  - first:
+      213: 7179182823986809149
+    second: coptop_226
+  - first:
+      213: -4197432006231555274
+    second: coptop_227
+  - first:
+      213: -4561108448297654218
+    second: coptop_228
+  - first:
+      213: -2534379368542189216
+    second: coptop_229
+  - first:
+      213: -7759080108076620084
+    second: coptop_230
+  - first:
+      213: 7226997596358519975
+    second: coptop_231
+  - first:
+      213: 2995256186602159467
+    second: coptop_232
+  - first:
+      213: -4805115266959163852
+    second: coptop_233
+  - first:
+      213: 2541105940326551630
+    second: coptop_234
+  - first:
+      213: -2229530631167222565
+    second: coptop_235
+  - first:
+      213: 1717257139380454393
+    second: coptop_236
+  - first:
+      213: 4504700019483404700
+    second: coptop_237
+  - first:
+      213: 9186035018139487296
+    second: coptop_238
+  - first:
+      213: 6624983152892935285
+    second: coptop_239
+  - first:
+      213: 113561495369849365
+    second: coptop_240
+  - first:
+      213: -4972455973613145712
+    second: coptop_241
+  - first:
+      213: -9192859581941363378
+    second: coptop_242
+  - first:
+      213: -1239084164995999212
+    second: coptop_243
+  - first:
+      213: -8411075393610307808
+    second: coptop_244
+  - first:
+      213: -7758419657722829392
+    second: coptop_245
+  - first:
+      213: 5756181232412817205
+    second: coptop_246
+  - first:
+      213: -604561074301134677
+    second: coptop_247
+  - first:
+      213: 7324586993646688893
+    second: coptop_248
+  - first:
+      213: 5683020628723767557
+    second: coptop_249
+  - first:
+      213: 7043784171653538829
+    second: coptop_250
+  - first:
+      213: -7792888304757761040
+    second: coptop_251
+  - first:
+      213: 7375346145339571209
+    second: coptop_252
+  - first:
+      213: -1531813493196017233
+    second: coptop_253
+  - first:
+      213: 6800450548947273609
+    second: coptop_254
+  - first:
+      213: -45816477017751351
+    second: coptop_255
+  - first:
+      213: -5184904228303956424
+    second: coptop_256
+  - first:
+      213: 4501841682060195174
+    second: coptop_257
+  - first:
+      213: 2226632400601634639
+    second: coptop_258
+  - first:
+      213: 7433714469195661078
+    second: coptop_259
+  - first:
+      213: -24704761280710572
+    second: coptop_260
+  - first:
+      213: 4516280735104595718
+    second: coptop_261
+  - first:
+      213: -1821042658966511029
+    second: coptop_262
+  - first:
+      213: 6637080052459828853
+    second: coptop_263
+  - first:
+      213: -1096237432600705193
+    second: coptop_264
+  - first:
+      213: 3454784147515416981
+    second: coptop_265
+  - first:
+      213: 3009783956831912257
+    second: coptop_266
+  - first:
+      213: -6040796284386750831
+    second: coptop_267
+  - first:
+      213: 7786821080908296312
+    second: coptop_268
+  - first:
+      213: 6205769093845372067
+    second: coptop_269
+  - first:
+      213: 6852064873070919371
+    second: coptop_270
+  - first:
+      213: -2233932661119264856
+    second: coptop_271
+  - first:
+      213: -3398211977323494553
+    second: coptop_272
+  - first:
+      213: 2209652584353513246
+    second: coptop_273
+  - first:
+      213: 2364610801786797582
+    second: coptop_274
+  - first:
+      213: -1336176195194955686
+    second: coptop_275
+  - first:
+      213: -226177917303788464
+    second: coptop_276
+  - first:
+      213: 325169838909701708
+    second: coptop_277
+  - first:
+      213: 5253902212881939029
+    second: coptop_278
+  - first:
+      213: -2400040562360328688
+    second: coptop_279
+  - first:
+      213: 3777013747371172660
+    second: coptop_280
+  - first:
+      213: 5995730475354827807
+    second: coptop_281
+  - first:
+      213: -4908506024666947337
+    second: coptop_282
+  - first:
+      213: 916918592346450402
+    second: coptop_283
+  - first:
+      213: -3679912095752342100
+    second: coptop_284
+  - first:
+      213: 5736880952956325564
+    second: coptop_285
+  - first:
+      213: 7286128900935841871
+    second: coptop_286
+  - first:
+      213: -5732047140342269788
+    second: coptop_287
+  - first:
+      213: -1697539727939767047
+    second: coptop_288
+  - first:
+      213: -846900473372147971
+    second: coptop_289
+  - first:
+      213: -6743770615063480045
+    second: coptop_290
+  - first:
+      213: 8413888814444083931
+    second: coptop_291
+  - first:
+      213: 41153282151533317
+    second: coptop_292
+  - first:
+      213: -527169286118405319
+    second: coptop_293
+  - first:
+      213: 2902545002824819138
+    second: coptop_294
+  - first:
+      213: 3873005751905072227
+    second: coptop_295
+  - first:
+      213: -7607662614817069170
+    second: coptop_296
+  - first:
+      213: 1086821113712913444
+    second: coptop_297
+  - first:
+      213: -8315249311855597945
+    second: coptop_298
+  - first:
+      213: 2161124058662112004
+    second: coptop_299
+  - first:
+      213: 3365246695291321448
+    second: coptop_300
+  - first:
+      213: 3315978584792983199
+    second: coptop_301
+  - first:
+      213: -8891546570222655854
+    second: coptop_302
+  - first:
+      213: 9115583064175915119
+    second: coptop_303
+  - first:
+      213: 5698745292811572797
+    second: coptop_304
+  - first:
+      213: 5807774363240943350
+    second: coptop_305
+  - first:
+      213: 8728917866492162299
+    second: coptop_306
+  - first:
+      213: 4079053238049090052
+    second: coptop_307
+  - first:
+      213: -7470280149177270283
+    second: coptop_308
+  - first:
+      213: -8401385658259134191
+    second: coptop_309
+  - first:
+      213: -5083622273755942735
+    second: coptop_310
+  - first:
+      213: 8575748856410889115
+    second: coptop_311
+  - first:
+      213: 7591484162344037048
+    second: coptop_312
+  - first:
+      213: -873953500206674603
+    second: coptop_313
+  - first:
+      213: -6620449989385592957
+    second: coptop_314
+  - first:
+      213: 8938633558474215638
+    second: coptop_315
+  - first:
+      213: 4931052318771548502
+    second: coptop_316
+  - first:
+      213: 4382292558618931734
+    second: coptop_317
+  - first:
+      213: -4174064829713135999
+    second: coptop_318
+  - first:
+      213: 8429917398472120232
+    second: coptop_319
+  - first:
+      213: -3837270623006698134
+    second: coptop_320
+  - first:
+      213: 5645977234128798566
+    second: coptop_321
+  - first:
+      213: -8022649387221175509
+    second: coptop_322
+  - first:
+      213: -3721073449321215482
+    second: coptop_323
+  - first:
+      213: -2336332617720927247
+    second: coptop_324
+  - first:
+      213: 2089035626847025801
+    second: coptop_325
+  - first:
+      213: -6885351346792078959
+    second: coptop_326
+  - first:
+      213: 9096021089453599586
+    second: coptop_327
+  - first:
+      213: 2539002099709359579
+    second: coptop_328
+  - first:
+      213: 7432721553040094422
+    second: coptop_329
+  - first:
+      213: -693550626542324692
+    second: coptop_330
+  - first:
+      213: 3766714383532954382
+    second: coptop_331
+  - first:
+      213: 2931033353924381061
+    second: coptop_332
+  - first:
+      213: -2829039222295124734
+    second: coptop_333
+  - first:
+      213: -3739893613287786219
+    second: coptop_334
+  - first:
+      213: 606157505955596843
+    second: coptop_335
+  - first:
+      213: -1335261164418413760
+    second: coptop_336
+  - first:
+      213: 1801375344156310918
+    second: coptop_337
+  - first:
+      213: -7258216596673494279
+    second: coptop_338
+  - first:
+      213: -7365884485022515431
+    second: coptop_339
+  - first:
+      213: -1734764750519611220
+    second: coptop_340
+  - first:
+      213: 2428713711871648682
+    second: coptop_341
+  - first:
+      213: -1386575644956208061
+    second: coptop_342
+  - first:
+      213: 4255781861398244176
+    second: coptop_343
+  - first:
+      213: 6120527129145153461
+    second: coptop_344
+  - first:
+      213: 5832239761765156334
+    second: coptop_345
+  - first:
+      213: -8735774681814987856
+    second: coptop_346
+  - first:
+      213: -1062495512245764176
+    second: coptop_347
+  - first:
+      213: 3270005151134644903
+    second: coptop_348
+  - first:
+      213: -7869904825855340591
+    second: coptop_349
+  - first:
+      213: 3736203573981455357
+    second: coptop_350
+  - first:
+      213: -8081715828322927460
+    second: coptop_351
+  - first:
+      213: -918059450615591013
+    second: coptop_352
+  - first:
+      213: -6610875928434180882
+    second: coptop_353
+  - first:
+      213: -7549574462059593785
+    second: coptop_354
+  - first:
+      213: -3231211227330008265
+    second: coptop_355
+  - first:
+      213: -5647753676741170736
+    second: coptop_356
+  - first:
+      213: -4226226722886843025
+    second: coptop_357
+  - first:
+      213: 472983025495803534
+    second: coptop_358
+  - first:
+      213: -7161308028640606333
+    second: coptop_359
+  - first:
+      213: 7111178808303316822
+    second: coptop_360
+  - first:
+      213: -4516051403031370607
+    second: coptop_361
+  - first:
+      213: 9021912804970851071
+    second: coptop_362
+  - first:
+      213: 7807507107567367813
+    second: coptop_363
+  - first:
+      213: -7817232089777770228
+    second: coptop_364
+  - first:
+      213: 4752085688998096636
+    second: coptop_365
+  - first:
+      213: 26107396525120672
+    second: coptop_366
+  - first:
+      213: 5225514462816510442
+    second: coptop_367
+  - first:
+      213: -7250646554034898450
+    second: coptop_368
+  - first:
+      213: 7268413614567717633
+    second: coptop_369
+  - first:
+      213: 6280220659844190091
+    second: coptop_370
+  - first:
+      213: -1168056755832165068
+    second: coptop_371
+  - first:
+      213: 4067809578752039746
+    second: coptop_372
+  - first:
+      213: 5912926147983711052
+    second: coptop_373
+  - first:
+      213: -280576401264146285
+    second: coptop_374
+  - first:
+      213: -2887530170991820656
+    second: coptop_375
+  - first:
+      213: 3903849742046269234
+    second: coptop_376
+  - first:
+      213: 8433216202135691816
+    second: coptop_377
+  - first:
+      213: 8986940786988981907
+    second: coptop_378
+  - first:
+      213: 7431847548346364281
+    second: coptop_379
+  - first:
+      213: -2511741543184202189
+    second: coptop_380
+  - first:
+      213: -7870048522835904229
+    second: coptop_381
+  - first:
+      213: -1027096503039075374
+    second: coptop_382
+  - first:
+      213: 673455117360228282
+    second: coptop_383
+  - first:
+      213: 7802710779226163755
+    second: coptop_384
+  - first:
+      213: -6566981865332808146
+    second: coptop_385
+  - first:
+      213: -4244324896328519261
+    second: coptop_386
+  - first:
+      213: -5583804963950604611
+    second: coptop_387
+  - first:
+      213: 7209957815321200983
+    second: coptop_388
+  - first:
+      213: 8088265694931721094
+    second: coptop_389
+  - first:
+      213: 5284347665711057584
+    second: coptop_390
+  - first:
+      213: 6225292777291512459
+    second: coptop_391
+  - first:
+      213: 7215429013965538988
+    second: coptop_392
+  - first:
+      213: 6250298128007621268
+    second: coptop_393
+  - first:
+      213: -5792749228043002674
+    second: coptop_394
+  - first:
+      213: 4663869372375255032
+    second: coptop_395
+  - first:
+      213: 8137599448118964238
+    second: coptop_396
+  - first:
+      213: -7871634728305637377
+    second: coptop_397
+  - first:
+      213: 8469923245845676984
+    second: coptop_398
+  - first:
+      213: 1141682054704206939
+    second: coptop_399
+  - first:
+      213: -3901579189754249820
+    second: coptop_400
+  - first:
+      213: 5774400869839609417
+    second: coptop_401
+  - first:
+      213: -3157109961302322574
+    second: coptop_402
+  - first:
+      213: 4145541014171465195
+    second: coptop_403
+  - first:
+      213: -3748923053064431233
+    second: coptop_404
+  - first:
+      213: 7056144682915807981
+    second: coptop_405
+  - first:
+      213: -8915405825194584199
+    second: coptop_406
+  - first:
+      213: 5586007239420272816
+    second: coptop_407
+  - first:
+      213: 3513122074930121740
+    second: coptop_408
+  - first:
+      213: -5563711411454139276
+    second: coptop_409
+  - first:
+      213: -8479275718298977070
+    second: coptop_410
+  - first:
+      213: 2815537636464282687
+    second: coptop_411
+  - first:
+      213: 5788503928979718854
+    second: coptop_412
+  - first:
+      213: 6803610339490349743
+    second: coptop_413
+  - first:
+      213: -9063046694996266601
+    second: coptop_414
+  - first:
+      213: -8596661079788858950
+    second: coptop_415
+  - first:
+      213: -6422920356982033057
+    second: coptop_416
+  - first:
+      213: 5990204934821943207
+    second: coptop_417
+  - first:
+      213: -5738644880468157953
+    second: coptop_418
+  - first:
+      213: -2786363128983609146
+    second: coptop_419
+  - first:
+      213: 3129062409734877575
+    second: coptop_420
+  - first:
+      213: -1602177250599838958
+    second: coptop_421
+  - first:
+      213: -230612428352662614
+    second: coptop_422
+  - first:
+      213: 3217777843777392318
+    second: coptop_423
+  - first:
+      213: -836168211468583628
+    second: coptop_424
+  - first:
+      213: -4211931225050131178
+    second: coptop_425
+  - first:
+      213: -527578370215774910
+    second: coptop_426
+  - first:
+      213: 3812497712213091487
+    second: coptop_427
+  - first:
+      213: 3412387503203020806
+    second: coptop_428
+  - first:
+      213: -6284975752677918560
+    second: coptop_429
+  - first:
+      213: 7707548363383117893
+    second: coptop_430
+  - first:
+      213: 4287185451972174800
+    second: coptop_431
+  - first:
+      213: 8581611145535395157
+    second: coptop_432
+  - first:
+      213: -2510115793450323111
+    second: coptop_433
+  - first:
+      213: -4852427358860659858
+    second: coptop_434
+  - first:
+      213: 4876095124990682282
+    second: coptop_435
+  - first:
+      213: -1578652169778622037
+    second: coptop_436
+  - first:
+      213: 1304540804390882595
+    second: coptop_437
+  - first:
+      213: 41478210387500504
+    second: coptop_438
+  - first:
+      213: 1232587106652972288
+    second: coptop_439
+  - first:
+      213: -1697034826395967961
+    second: coptop_440
+  - first:
+      213: -2482367496753200513
+    second: coptop_441
+  - first:
+      213: 5139546332833262104
+    second: coptop_442
+  - first:
+      213: 2564880776747334894
+    second: coptop_443
+  - first:
+      213: 4894605598399144937
+    second: coptop_444
+  - first:
+      213: 8529692888317479163
+    second: coptop_445
+  - first:
+      213: -1604130581069669015
+    second: coptop_446
+  - first:
+      213: -6259297912930318902
+    second: coptop_447
+  - first:
+      213: 8197220814836326201
+    second: coptop_448
+  - first:
+      213: 2934553937087764644
+    second: coptop_449
+  - first:
+      213: -8730649627399305905
+    second: coptop_450
+  - first:
+      213: -463189882376512984
+    second: coptop_451
+  - first:
+      213: 1749035006343836649
+    second: coptop_452
+  - first:
+      213: -4206039261358068388
+    second: coptop_453
+  - first:
+      213: -870865474263111914
+    second: coptop_454
+  - first:
+      213: 4827967896386416272
+    second: coptop_455
+  - first:
+      213: 4561103433128610074
+    second: coptop_456
+  - first:
+      213: 1685894628460821728
+    second: coptop_457
+  - first:
+      213: -2385867230029073346
+    second: coptop_458
+  - first:
+      213: -885545107720970562
+    second: coptop_459
+  - first:
+      213: -1708957040140681685
+    second: coptop_460
+  - first:
+      213: 5293249275711281230
+    second: coptop_461
+  - first:
+      213: -1135684032711723812
+    second: coptop_462
+  - first:
+      213: -3726240824182453776
+    second: coptop_463
+  - first:
+      213: 8646905974916011331
+    second: coptop_464
+  - first:
+      213: -9133333999764354419
+    second: coptop_465
+  - first:
+      213: -8246638978292769540
+    second: coptop_466
+  - first:
+      213: -3875880331889143887
+    second: coptop_467
+  - first:
+      213: -6059254590818497922
+    second: coptop_468
+  - first:
+      213: -5383521512984732927
+    second: coptop_469
+  - first:
+      213: -5945717814985855078
+    second: coptop_470
+  - first:
+      213: 7652719742902564191
+    second: coptop_471
+  - first:
+      213: 4055066447272741715
+    second: coptop_472
+  - first:
+      213: 810072601624450230
+    second: coptop_473
+  - first:
+      213: 6547291423081289827
+    second: coptop_474
+  - first:
+      213: 2812316314115110589
+    second: coptop_475
+  - first:
+      213: 2052663384408277635
+    second: coptop_476
+  - first:
+      213: 1616211421622228801
+    second: coptop_477
+  - first:
+      213: -5218561914823551356
+    second: coptop_478
+  - first:
+      213: -8442928165047751706
+    second: coptop_479
+  - first:
+      213: 3287306522400438013
+    second: coptop_480
+  - first:
+      213: -1152264191185273749
+    second: coptop_481
+  - first:
+      213: 2592495920830451227
+    second: coptop_482
+  - first:
+      213: 6512498369728757365
+    second: coptop_483
+  - first:
+      213: -3593034301727331496
+    second: coptop_484
+  - first:
+      213: 2544858351698676818
+    second: coptop_485
+  - first:
+      213: -967845555211204951
+    second: coptop_486
+  - first:
+      213: -4654360600907977925
+    second: coptop_487
+  - first:
+      213: 427834344206931112
+    second: coptop_488
+  - first:
+      213: 8586561642574648787
+    second: coptop_489
+  - first:
+      213: 7190591343603655982
+    second: coptop_490
+  - first:
+      213: -3826969086486556897
+    second: coptop_491
+  - first:
+      213: 4174461385461270386
+    second: coptop_492
+  - first:
+      213: 4109260735284329442
+    second: coptop_493
+  - first:
+      213: -4884697229368839296
+    second: coptop_494
+  - first:
+      213: 6540836197296675632
+    second: coptop_495
+  - first:
+      213: -1922260816062493517
+    second: coptop_496
+  - first:
+      213: 7679158086925705889
+    second: coptop_497
+  - first:
+      213: 5800816213296756620
+    second: coptop_498
+  - first:
+      213: -107062169405027819
+    second: coptop_499
+  - first:
+      213: 1855397711214763180
+    second: coptop_500
+  - first:
+      213: 7944916814445383290
+    second: coptop_501
+  - first:
+      213: 6921612307921402059
+    second: coptop_502
+  - first:
+      213: -6675725272267404729
+    second: coptop_503
+  - first:
+      213: -506381956934179205
+    second: coptop_504
+  - first:
+      213: -1498596027220033162
+    second: coptop_505
+  - first:
+      213: -2214349052057373565
+    second: coptop_506
+  - first:
+      213: 4697879604113995036
+    second: coptop_507
+  - first:
+      213: 7942126927174114326
+    second: coptop_508
+  - first:
+      213: 429647814758227158
+    second: coptop_509
+  - first:
+      213: -6525353356930957101
+    second: coptop_510
+  - first:
+      213: -8083531385227550286
+    second: coptop_511
+  - first:
+      213: -3133694036499624896
+    second: coptop_512
+  - first:
+      213: 7363927626274553142
+    second: coptop_513
+  - first:
+      213: -3544419320878798828
+    second: coptop_514
+  - first:
+      213: 6047773279743041187
+    second: coptop_515
+  - first:
+      213: 4935781902610409397
+    second: coptop_516
+  - first:
+      213: -1942349141378579349
+    second: coptop_517
+  - first:
+      213: 7853341251130964194
+    second: coptop_518
+  - first:
+      213: 2083913073022406844
+    second: coptop_519
+  - first:
+      213: -9199373742098783728
+    second: coptop_520
+  - first:
+      213: 1460464865893392476
+    second: coptop_521
+  - first:
+      213: -5948564387907527319
+    second: coptop_522
+  - first:
+      213: -3282285354033775309
+    second: coptop_523
+  - first:
+      213: -2475675554572593337
+    second: coptop_524
+  - first:
+      213: 5644007545145631060
+    second: coptop_525
+  - first:
+      213: 6120964111552126972
+    second: coptop_526
+  - first:
+      213: 6069053413262227098
+    second: coptop_527
+  - first:
+      213: 6862528524263898132
+    second: coptop_528
+  - first:
+      213: 7159682278643071758
+    second: coptop_529
+  - first:
+      213: -4119645736214528910
+    second: coptop_530
+  - first:
+      213: 3453371357987712471
+    second: coptop_531
+  - first:
+      213: 5397176453437887100
+    second: coptop_532
+  - first:
+      213: 1303842693971413644
+    second: coptop_533
+  - first:
+      213: 1712173010587906289
+    second: coptop_534
+  - first:
+      213: 7702685226643177907
+    second: coptop_535
+  - first:
+      213: 1530708744101704427
+    second: coptop_536
+  - first:
+      213: 4069869727558309259
+    second: coptop_537
+  - first:
+      213: 4889567804385808651
+    second: coptop_538
+  - first:
+      213: 6172596393362436237
+    second: coptop_539
+  - first:
+      213: 828405468049010278
+    second: coptop_540
+  - first:
+      213: 5154480665762425126
+    second: coptop_541
+  - first:
+      213: 652702586110149293
+    second: coptop_542
+  - first:
+      213: 4904036413311293588
+    second: coptop_543
+  - first:
+      213: 4138950761692956659
+    second: coptop_544
+  - first:
+      213: 7942545088100353113
+    second: coptop_545
+  - first:
+      213: 1933095837448990348
+    second: coptop_546
+  - first:
+      213: 5224981144388757407
+    second: coptop_547
+  - first:
+      213: 1467434360964357373
+    second: coptop_548
+  - first:
+      213: 4477091258316010678
+    second: coptop_549
+  - first:
+      213: 2116303609163252092
+    second: coptop_550
+  - first:
+      213: -8144494689152711677
+    second: coptop_551
+  - first:
+      213: -4326617619690627453
+    second: coptop_552
+  - first:
+      213: 6494547208551499232
+    second: coptop_553
+  - first:
+      213: 6685388515216549522
+    second: coptop_554
+  - first:
+      213: -4736713273089342782
+    second: coptop_555
+  - first:
+      213: -1425345229193173585
+    second: coptop_556
+  - first:
+      213: -3728970318946287065
+    second: coptop_557
+  - first:
+      213: -5420087802012351368
+    second: coptop_558
+  - first:
+      213: 2570212680605452946
+    second: coptop_559
+  - first:
+      213: -6236533984100314111
+    second: coptop_560
+  - first:
+      213: -2280684121119863130
+    second: coptop_561
+  - first:
+      213: 8016042667350257532
+    second: coptop_562
+  - first:
+      213: -5854015224386566582
+    second: coptop_563
+  - first:
+      213: 2208460272382370810
+    second: coptop_564
+  - first:
+      213: -5308538065663358422
+    second: coptop_565
+  - first:
+      213: 3059185494160544386
+    second: coptop_566
+  - first:
+      213: 5135087330364570743
+    second: coptop_567
+  - first:
+      213: -4360941537818847619
+    second: coptop_568
+  - first:
+      213: -5064748065788950132
+    second: coptop_569
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 324, y: 0, z: 0, w: 79}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coptop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115d45ae96140740800000000000000
+      internalID: 5117239947233677598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 330
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d311e02b3930720800000000000000
+      internalID: 2811252985358794114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 328
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ce37406b8cfef0800000000000000
+      internalID: -73030248316354405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 327
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc9ef66bf2b0970800000000000000
+      internalID: 8722117563941243718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418283d5b8d7b130800000000000000
+      internalID: 3582570304045744460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 325
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574fa3c823053d90800000000000000
+      internalID: -7118780162372581544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 325
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf82692f72c5d10800000000000000
+      internalID: 2115609847812128193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 325
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee742d76b98eb70800000000000000
+      internalID: 8928557131473874486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 326
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d60a6767fcb370800000000000000
+      internalID: 8339812633515839518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 327
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c9c57a0509f0490800000000000000
+      internalID: -7777839355365909405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 328
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73481491e0466930800000000000000
+      internalID: 4136064645382816637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 330
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b969c6b5a8c6970d0800000000000000
+      internalID: -3424586700143421797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 332
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0e0e2c38bd8d40800000000000000
+      internalID: 5588325281246874488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 331
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf54a81c17715d0800000000000000
+      internalID: -3091877543104087023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 329
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d451fbc6cc8a15210800000000000000
+      internalID: 1320021761747522893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 301
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b0e2b9a004407e0800000000000000
+      internalID: -1800243536744019066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82b4289c6905eb0800000000000000
+      internalID: -4733117416147834683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 300
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0fc4f98c13a8930800000000000000
+      internalID: 4146181144683802844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 299
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab743b7394183ee50800000000000000
+      internalID: 6837450810745636794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 300
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4052daeb223c5bd0800000000000000
+      internalID: -2640180117341319090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b0f57072d58530800000000000000
+      internalID: 3856720036369577613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 301
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d04ee2591a0ed500800000000000000
+      internalID: 422786518901211353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 303
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50584d514e0321f10800000000000000
+      internalID: 2238905720933483781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 304
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7fcfb4043e1640800000000000000
+      internalID: 5052533026958835307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 304
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2689695f0827b56f0800000000000000
+      internalID: -694835819296941982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 303
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f9500ba12480580800000000000000
+      internalID: -8860759584461709502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 302
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365c1bd1fec8a1590800000000000000
+      internalID: -7702689254040550045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53e65f24beff380800000000000000
+      internalID: -8935164462861765201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 300
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56394edbee8f130800000000000000
+      internalID: 3600890401433806293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_29
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 300
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc4ef4a924d3d70800000000000000
+      internalID: 9024442458853133461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 273
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516bf3febd1fbbb30800000000000000
+      internalID: 4304299795796702741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 273
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72880bde0d4906180800000000000000
+      internalID: -9124129219990747097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 273
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee3d9c034ec4030800000000000000
+      internalID: 3480407510246223398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 273
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a97e2137f6bfa8a0800000000000000
+      internalID: -6291608981614986848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 275
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffd63cf6eac85c0800000000000000
+      internalID: -4211799756454887601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 276
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683ac58d93b9aaa0800000000000000
+      internalID: -6149186327061841810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 277
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4712f53051068c130800000000000000
+      internalID: 3587222746567745908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 277
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbcb4b4c21afa7f0800000000000000
+      internalID: -599083013803095049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 275
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcb3260f63d52560800000000000000
+      internalID: 7288464045766851761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 275
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f94913cfa5ecf10800000000000000
+      internalID: 2291869299588243257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 274
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c778395d8c250810800000000000000
+      internalID: 1730838617392707520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_41
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 274
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4299a3b9e3da30720800000000000000
+      internalID: 2811281076813207844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_42
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 273
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491f35417ae37d60800000000000000
+      internalID: 7886905144669837640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 274
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32321338599c5b150800000000000000
+      internalID: 5887833731845137187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_44
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 274
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f20d45d3054e0f20800000000000000
+      internalID: 3390723452222374645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689c0fb4007730a10800000000000000
+      internalID: 1874472713074035078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 249
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc0432b3af47b90800000000000000
+      internalID: -7244890768630821820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 250
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9acd4fbfbb37f30800000000000000
+      internalID: 4572204737530472918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 251
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba49029fb1bc990800000000000000
+      internalID: -7364762008826893412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 251
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb1ba786872e1450800000000000000
+      internalID: 6061325607242505209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 250
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d787557e9697fae0800000000000000
+      internalID: -1515577142269212714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 248
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3f997743a6efe0800000000000000
+      internalID: -1160060326622839580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 246
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e9bf01e24bac10800000000000000
+      internalID: 2065818388478419604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 244
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7da729bca44300800000000000000
+      internalID: 235502991764716392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed895d1bf9fc0f720800000000000000
+      internalID: 2878028446680062174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_55
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 244
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3afa2e87fa195290800000000000000
+      internalID: -7901254420700399041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_56
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 247
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbfbf64000ef7790800000000000000
+      internalID: -7530053760144638991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_57
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 249
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9604fe4baf4cee90800000000000000
+      internalID: -6995128524030605669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 250
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8603a32931e190800000000000000
+      internalID: -7934998243228349200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_59
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 251
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a23812bc8306930800000000000000
+      internalID: 4134366903017876068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee653b859483ea0800000000000000
+      internalID: -5892879467099525429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e53293f7a36c7bd0800000000000000
+      internalID: -2631118509294078491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 220
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d173fcb05cf46150800000000000000
+      internalID: 5865090038440882642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9988abf539a1b70800000000000000
+      internalID: 8870564455420303801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 219
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343c28f96ce582f0800000000000000
+      internalID: -971110204749106123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 219
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33beabd95d6d71a0800000000000000
+      internalID: -6810166828809145537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 219
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747494dc90d729010800000000000000
+      internalID: 1194154332258912071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 219
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4910e4e2e26bb0800000000000000
+      internalID: -4944139968259207732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_68
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 219
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e65dbb8ea4bd700800000000000000
+      internalID: 566128541609324175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_69
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 220
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93faa699671526b0800000000000000
+      internalID: -5321821642401582179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 220
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad30c19c15ee72b0800000000000000
+      internalID: -5584774577025696344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_71
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 222
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdcb755d021b6460800000000000000
+      internalID: 7235897074778885567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_72
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 222
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db48690c19760ba90800000000000000
+      internalID: -7300221120268565315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_73
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 223
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca40344543df340800000000000000
+      internalID: 4899129506155244674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 223
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf357bb4c12e470800000000000000
+      internalID: 8422325364660108460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c795c018f9d08f30800000000000000
+      internalID: 4575896880864925633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040630153942dd970800000000000000
+      internalID: 8781215063580303424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 190
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f839890758d048a0800000000000000
+      internalID: -6322816008494434055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 189
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d47bb327499ecf0800000000000000
+      internalID: -222483488229077671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 191
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c1f0f04200a1f0800000000000000
+      internalID: -1035825436351674728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_80
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca29236c2187870800000000000000
+      internalID: 8680708924217928844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 195
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2812962989f0401b0800000000000000
+      internalID: -5691406881123655294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 196
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014d987ee698f67b0800000000000000
+      internalID: -5228809532929879024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 197
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ad442a404d7340800000000000000
+      internalID: 4863113859810828692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_84
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 195
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb8a03e81cf18240800000000000000
+      internalID: 4792388662317452281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 194
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88031f0e66200b0800000000000000
+      internalID: -5763931456775616301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 194
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa97bbf8a427a9700800000000000000
+      internalID: 547875969243511215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_87
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 193
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4c60e7370472960800000000000000
+      internalID: 7577095762853938391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_88
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 193
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15020b1310b912bb0800000000000000
+      internalID: -4962514884954677167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_89
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 192
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4024c2d4112f4c0800000000000000
+      internalID: -4255319674759019346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 165
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2d3efc441e6050800000000000000
+      internalID: 5795592091387899187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_91
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 165
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2f9b56d2d37d9f0800000000000000
+      internalID: -443818773083196767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_92
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be60f7f3deb9050800000000000000
+      internalID: 5808497001394269077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 166
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ebd5749860da330800000000000000
+      internalID: 3723639653582880409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 166
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ddc69e522e8e7a0800000000000000
+      internalID: -6347575022320820879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_95
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 167
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07540e4d711cdda30800000000000000
+      internalID: 4241758732152751472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_96
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 169
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19916b5e26e7970800000000000000
+      internalID: 8754543464396984823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_97
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 170
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d11e87a2788191f0800000000000000
+      internalID: -1039900012927118890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_98
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 169
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d826fe83e4bf410800000000000000
+      internalID: 1511888106354281876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_99
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 168
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c575c6a3c1e9bc0800000000000000
+      internalID: -3774548400438551440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_100
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 166
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307675e93b144000800000000000000
+      internalID: 19170233893154874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_101
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 164
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae2d720bf2c10cc0800000000000000
+      internalID: -3746499031661203808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_102
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 163
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae8add658225440800000000000000
+      internalID: 4923041696220506833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_103
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 164
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f1d269fae75ca80800000000000000
+      internalID: -8447206233459581074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_104
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 166
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186684202466ea70800000000000000
+      internalID: 8855875806485178388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_105
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 141
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207051de3b0d53e20800000000000000
+      internalID: 3329796970705651458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_106
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8abd7af3cda0630800000000000000
+      internalID: 3894166993772456141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_107
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 143
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eb58b4b173f13b0800000000000000
+      internalID: -5539648426271719893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_108
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd4b9945849d7500800000000000000
+      internalID: 395635642464947677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_109
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 141
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a742f2c5b2e91d0800000000000000
+      internalID: -3342186198534424029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ce686b7ca97db00800000000000000
+      internalID: 853320836961463428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 140
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b9fe90d79daeb0800000000000000
+      internalID: -4706939113256144617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 139
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4f22ad80fb7fa0800000000000000
+      internalID: -5801779203834688532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_113
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 138
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a996b28784c9e2c40800000000000000
+      internalID: 5489496830878902682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 138
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e306331688ab700800000000000000
+      internalID: 556907454988828213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_115
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 138
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd495e642575ff0800000000000000
+      internalID: -47478806611173993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_116
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 139
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986d740548ced3f80800000000000000
+      internalID: -8125078099679783287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_117
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 139
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6318f3ae942c4910800000000000000
+      internalID: 1822872212952585071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_118
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 140
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb679ee18eea8da10800000000000000
+      internalID: 1934488351929890495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_119
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 140
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9241ebcd5db4e60800000000000000
+      internalID: 7947681111483886027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437941eed150bfb0800000000000000
+      internalID: -4634113998859963578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_121
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd30e87d32d9710800000000000000
+      internalID: 1701555642923474743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_122
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7602f8a784fa2a0800000000000000
+      internalID: -6724076027416385628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328207026fbad100800000000000000
+      internalID: 133629566706156083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_124
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 112
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1b7a95a5a5adf0800000000000000
+      internalID: -169547280276578775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_125
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 110
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2394806822be3fd0800000000000000
+      internalID: -2360253268207824082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_126
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 109
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fca97d6fec9fd10800000000000000
+      internalID: 2159985055875387175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_127
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 111
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b6475a4412ee60800000000000000
+      internalID: 7989970998433067744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_128
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 112
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ab17a7f14c2a80800000000000000
+      internalID: -8490338665583894154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 115
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593ac6b3520885c0800000000000000
+      internalID: -4213114892832851630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_130
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 115
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b517dbdde3a7540800000000000000
+      internalID: 5006383057862744908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_131
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 116
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441938460e34eb410800000000000000
+      internalID: 1494706757371662660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_132
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 116
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437da1edb0ac741a0800000000000000
+      internalID: -6825264557936945356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_133
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 114
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a01b4653e787d0800000000000000
+      internalID: -2916112273933033152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_134
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 113
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe37005293736690800000000000000
+      internalID: -7610111873080934657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_135
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec83907b9a14c7d0800000000000000
+      internalID: -2899163005208785689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 85
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d670cd8fbd196b0800000000000000
+      internalID: -5291206225293775591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_137
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 85
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5388112e7c0653c80800000000000000
+      internalID: -8343656323026417611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_138
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224e8ec130e3a8f0800000000000000
+      internalID: -530333826576137694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_139
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 85
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ec25366564ce10800000000000000
+      internalID: 2217008406226331305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_140
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 85
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99072513eeb808db0800000000000000
+      internalID: -4791676148376244071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_141
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 85
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e993b45071440f0800000000000000
+      internalID: -1133755894686179747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_142
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5024fffe763c70f70800000000000000
+      internalID: 9153499618829353477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_143
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 87
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b75ae92a825b1460800000000000000
+      internalID: 7213449981526169524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_144
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 89
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05a25564e219dc0800000000000000
+      internalID: -3634072544699854663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_145
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 88
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc836e52085efbb0800000000000000
+      internalID: -4900382577335759679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_146
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 86
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c3bedfc7f2e060800000000000000
+      internalID: 6981414844544303654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_147
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 85
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daefa4f66ac89b1d0800000000000000
+      internalID: -3334479402631496019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_148
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 84
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64efca9df17b2ee60800000000000000
+      internalID: 7990150036332543558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_149
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 84
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0950b1ff1dd8b2a00800000000000000
+      internalID: 732835297445479824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_150
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e028ec270bc04c9d0800000000000000
+      internalID: -2755063120063987186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_151
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04caa686ec513840800000000000000
+      internalID: 5202041189761205258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_152
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbaff840ad837b00800000000000000
+      internalID: 825158876297931728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_153
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 58
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7303edbb98c700800000000000000
+      internalID: 560869393467407781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305fd84eca75e40800000000000000
+      internalID: 5645170755566371818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_155
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 61
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfdc505caeeb56b0800000000000000
+      internalID: -5306385312075948081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_156
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 62
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6fb995f580e59a0800000000000000
+      internalID: -6242542827870619922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_157
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 61
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa5dcce927ed310800000000000000
+      internalID: 1431707757917350571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_158
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 60
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3abf5c10fdd0cb90800000000000000
+      internalID: -7223529778964350404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_159
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 59
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f161385ab717be90800000000000000
+      internalID: -7010108205867900425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_160
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 57
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46485a10580827070800000000000000
+      internalID: 8102679988339573860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_161
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 57
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e6b720eda19def0800000000000000
+      internalID: -83005577302938061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_162
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 56
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c60574e25ed2370800000000000000
+      internalID: 8299541675241401474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_163
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 57
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405c59c79332110a0800000000000000
+      internalID: -6912705223226702588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_164
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 58
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839757f112fe13200800000000000000
+      internalID: 158170387475429688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_165
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b31072da80b80ff0800000000000000
+      internalID: -69611683941706828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_166
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2908ebc3d393d90d0800000000000000
+      internalID: -3414510007302061934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab49d73104a0f30800000000000000
+      internalID: 4542513626612021979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_168
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb29b1a35dae7a0800000000000000
+      internalID: -6347026279277872026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ab5f0ae5339700800000000000000
+      internalID: 545839259238245756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_170
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 34
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683eaa1f3c7186530800000000000000
+      internalID: 3848352011928658822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_171
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e1049dfcf61a30800000000000000
+      internalID: 4185811069727531683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_172
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4166a06639ca8c00800000000000000
+      internalID: 903755910628139343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 29
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d478fca4b9c3b11f0800000000000000
+      internalID: -1073197448525019315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 28
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb6694ca4bf49030800000000000000
+      internalID: 3500699108918062026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_175
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 29
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56acef2089353a90800000000000000
+      internalID: -7334893195380349345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_176
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 31
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa8bbde4eb73110800000000000000
+      internalID: 1240669468266901486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_177
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 33
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853686f1903b53cf0800000000000000
+      internalID: -273115350623034536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_178
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 34
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fe483294ed7ca10800000000000000
+      internalID: 1929755371061440267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_179
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 35
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27853fb300314a490800000000000000
+      internalID: -7736037368188938126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d17c1e39f69d4a0800000000000000
+      internalID: -6568095900604359286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_181
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3671d9fe638c1e90800000000000000
+      internalID: -7053618403708144066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_182
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd69ccb31cec160800000000000000
+      internalID: 7047782929461075851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_183
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8813630b491a23560800000000000000
+      internalID: 7292068406649827720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_184
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387236b01d0ee7e0800000000000000
+      internalID: -1734434441063663554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_185
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfd35f59a0e31c0800000000000000
+      internalID: -4522165336652514508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_186
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71412355b730bb680800000000000000
+      internalID: -8738386823737109481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_187
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ddc077137ec0470800000000000000
+      internalID: 8362312807756913935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_188
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e707d4691d7420800000000000000
+      internalID: 2629285678349280603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_189
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d55027ce9525e50800000000000000
+      internalID: 6796593659715607942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_190
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 5
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cae72bcaa48e9e90800000000000000
+      internalID: -7017025300308956474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coptop_191
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e216b5f2ef862d50800000000000000
+      internalID: 6712210499590034146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

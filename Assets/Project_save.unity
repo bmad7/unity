@@ -145,7 +145,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1423758366}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.29, y: 0.86, z: 0}
+  m_LocalPosition: {x: 0.352, y: 0.86, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1791308798}
@@ -245,6 +245,7 @@ GameObject:
   - component: {fileID: 1791308798}
   - component: {fileID: 1791308797}
   - component: {fileID: 1791308799}
+  - component: {fileID: 1791308800}
   m_Layer: 0
   m_Name: MainCharacter
   m_TagString: Untagged
@@ -304,6 +305,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1791308800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791308796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a93ac6adc71a89408c1dc3601c9baa0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firePoint: {fileID: 1423758367}
+  bulletPrefab: {fileID: 8802327783113456148, guid: 74f0cf9962b475b40aff87007f92e026,
+    type: 3}
 --- !u!1 &1828061674
 GameObject:
   m_ObjectHideFlags: 0
